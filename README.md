@@ -1,4 +1,3 @@
-```markdown
 <!-- Encabezado con banner dinámico -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=250&section=header&text=Retr0-a&fontSize=90&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner" />
@@ -69,4 +68,3 @@
 <p align="center">
   <img src="https://profile-counter.glitch.me/Retr0-a/count.svg" alt="Profile Visits Counter" />
 </p>
-```
