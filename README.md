@@ -1,6 +1,6 @@
 # Perfil Personal - Retr0-a
 
-[![Header Banner](https://capsule-render.vercel.app/render?type=waving&color=gradient&height=250&section=header&text=Retr0-a&fontSize=90&animation=fadeIn&fontAlignY=38)](https://github.com/Retr0-a)
+![Header Banner](profile_banner.jpg)
 
 <h2 align="center">👋 ¡Hola! Soy Andrés (Retr0-a)</h2>
 <p align="center">
@@ -36,24 +36,15 @@
 
 ---
 
-### 🏆 Trofeos de GitHub
-A continuación se muestran los trofeos ganados según la actividad de mi cuenta:
+### 📊 Mis Métricas de GitHub (En Tiempo Real)
+Estadísticas avanzadas generadas dinámicamente con las métricas de mi perfil:
 
-[![Mis Trofeos](https://github-profile-trophy.vercel.app/?username=Retr0-a&theme=tokyonight&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-### 📊 Estadísticas de GitHub
-Aquí puedes ver detalles detallados sobre mis contribuciones y lenguajes más usados:
-
-| Mis Estadísticas Generales | Mis Lenguajes Más Usados |
-| :---: | :---: |
-| [![Estadísticas de Andrés](https://github-readme-stats.vercel.app/api?username=Retr0-a&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![Lenguajes de Andrés](https://github-readme-stats.vercel.app/api/top-langs/?username=Retr0-a&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
+[![GitHub Metrics](https://metrics.lecoq.io/Retr0-a)](https://github.com/lowlighter/metrics)
 
 ---
 
 ### 🔥 Racha de Contribuciones (Streak Stats)
-[![Racha de Contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=Retr0-a&theme=tokyonight&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Racha de Contribuciones](https://streak-stats.demolab.com/?user=Retr0-a&theme=tokyonight&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ---
 
