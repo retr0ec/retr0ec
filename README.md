@@ -1,4 +1,5 @@
 <h1 align="center">Luis Andrés Flores Camacho</h1>
+<p align="center"><em>Construyendo el futuro línea por línea.</em></p>
 <p align="center">
 <strong>Fundador de <a href="https://simcod.ec">SIMCODEC</a> y Epic Group · Software e IA para pymes</strong><br>
 Quito, Ecuador
