@@ -1,27 +1,24 @@
-# Perfil Personal - Retr0-a
-
-![Header Banner](profile_banner.jpg)
-
-<h2 align="center">👋 ¡Hola! Soy Andrés (Retr0-a)</h2>
+<h1 align="center">Luis Andrés Flores Camacho</h1>
 <p align="center">
-  <strong>Software Developer en <a href="https://simcod.ec">SimCodec</a></strong>
+<strong>Fundador de <a href="https://simcod.ec">SIMCODEC</a> · Software e IA para pymes</strong><br>
+Quito, Ecuador
 </p>
 
 <p align="center">
-  <a href="https://github.com/Retr0-a"><img src="https://img.shields.io/github/followers/Retr0-a?label=Followers&style=social" alt="Followers" /></a>
-  <a href="https://github.com/Retr0-a"><img src="https://img.shields.io/github/stars/Retr0-a?style=social" alt="Stars" /></a>
+<a href="https://github.com/retr0ec"><img src="https://img.shields.io/github/followers/retr0ec?label=Followers&style=social" alt="Followers" /></a>
+<a href="https://github.com/retr0ec"><img src="https://img.shields.io/github/stars/retr0ec?style=social" alt="Stars" /></a>
 </p>
 
 ---
 
-### 🚀 Sobre Mí
-- 🏢 Formo parte activa de **[SimCodec](https://github.com/simcodec)**, empresa de Quito, Ecuador, especializada en desarrollo de software, automatización e infraestructura tecnológica.
-- 💻 Me apasiona construir soluciones eficientes utilizando tecnologías frontend y backend modernas, automatizaciones complejas de scraping y despliegues robustos.
-- ⚡ Intereses principales: Front-End Development, Cloud Computing, DevOps y Redes.
+### 🚀 Qué hago
+- 🏢 Fundé **[SIMCODEC](https://simcod.ec)**, empresa de Quito que crea software, automatización e inteligencia artificial para pequeñas y medianas empresas (+50 clientes).
+- 🤖 Productos propios: **Halo** (agentes de tareas) y **Tellia** (agentes de voz).
+- ⚡ Me interesan el desarrollo web, la nube, DevOps, las redes y la automatización.
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### 🛠️ Tecnologías y herramientas
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/es/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/es/docs/Web/CSS)
@@ -36,32 +33,13 @@
 
 ---
 
-### 📊 Mis Métricas de GitHub (En Tiempo Real)
-Estadísticas avanzadas generadas dinámicamente con las métricas de mi perfil:
-
-[![GitHub Metrics](https://metrics.lecoq.io/Retr0-a)](https://github.com/lowlighter/metrics)
-
----
-
-### 🔥 Racha de Contribuciones (Streak Stats)
-[![Racha de Contribuciones](https://streak-stats.demolab.com/?user=Retr0-a&theme=tokyonight&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
----
-
-### 📈 Gráfico de Actividad de Codificación
-Visualización detallada del historial de desarrollo semanal y diario:
-
-[![Gráfico de Actividad](https://github-readme-activity-graph.vercel.app/graph?username=Retr0-a&theme=tokyonight&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+### 📈 Actividad
+[![Racha de contribuciones](https://streak-stats.demolab.com/?user=retr0ec&theme=tokyonight&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ---
 
 ### 📫 Conectemos
-*   🏢 Sitio Corporativo: [simcod.ec](https://simcod.ec)
-*   📧 Correo Electrónico: [andres@epic.ec](mailto:andres@epic.ec)
-*   💼 GitHub: [@Retr0-a](https://github.com/Retr0-a)
-*   🏢 Organización GitHub: [simcodec](https://github.com/simcodec)
-
-<br>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Retr0-a/count.svg" alt="Profile Visits Counter" />
-</p>
+- 🌐 Sitio: [simcod.ec](https://simcod.ec)
+- 💼 LinkedIn: [linkedin.com/in/retr0ec](https://www.linkedin.com/in/retr0ec/)
+- 📧 Correo: [andres@epic.ec](mailto:andres@epic.ec)
+- 🏢 Organización: [simcodec](https://github.com/simcodec)
