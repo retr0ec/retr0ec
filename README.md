@@ -1,7 +1,7 @@
 <h1 align="center">Luis Andrés Flores Camacho</h1>
 <p align="center"><em>Construyendo el futuro línea por línea.</em></p>
 <p align="center">
-<strong>Fundador de <a href="https://simcod.ec">SIMCODEC</a> y Epic Group · Software e IA para pymes</strong><br>
+<strong>Fundador de <a href="https://simcod.ec">SIMCODEC</a> y <a href="https://epic.ec">Epic Group</a> · Software e IA para pymes</strong><br>
 Quito, Ecuador
 </p>
 
@@ -14,7 +14,7 @@ Quito, Ecuador
 
 ### 🚀 Qué hago
 - 🏢 Fundé **[SIMCODEC](https://simcod.ec)**, empresa de Quito que crea software, automatización e inteligencia artificial para pequeñas y medianas empresas (+50 clientes). Fui su CEO de agosto de 2025 a agosto de 2026 y hoy soy fundador y Director de Operaciones.
-- 🏢 Fundé y dirijo **Epic Group** (fundador y CEO desde 2019), holding tecnológico con empresas en redes, software, control industrial e IA.
+- 🏢 Fundé y dirijo **[Epic Group](https://epic.ec)** (fundador y CEO desde 2019), holding tecnológico con empresas en redes, software, control industrial e IA.
 - 🤖 Productos propios: **Halo** (agentes de tareas) y **Tellia** (agentes de voz).
 - ⚡ Me interesan el desarrollo web, la nube, DevOps, las redes y la automatización.
 
@@ -41,7 +41,10 @@ Quito, Ecuador
 ---
 
 ### 📫 Conectemos
-- 🌐 Sitio: [simcod.ec](https://simcod.ec)
+- 🌐 Sitio personal: [retr0.pages.dev](https://retr0.pages.dev)
+- 🏢 SIMCODEC: [simcod.ec](https://simcod.ec) · Epic Group: [epic.ec](https://epic.ec)
 - 💼 LinkedIn: [linkedin.com/in/retr0ec](https://www.linkedin.com/in/retr0ec/)
+- 📸 Instagram: [@retr0ec](https://www.instagram.com/retr0ec/)
+- 🎵 TikTok: [@retr0ec](https://www.tiktok.com/@retr0ec)
+- 💻 GitHub: [@retr0ec](https://github.com/retr0ec) · Organización: [simcodec](https://github.com/simcodec)
 - 📧 Correo: [andres@epic.ec](mailto:andres@epic.ec)
-- 🏢 Organización: [simcodec](https://github.com/simcodec)
