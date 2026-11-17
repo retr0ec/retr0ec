@@ -1,6 +1,6 @@
 <h1 align="center">Luis Andrés Flores Camacho</h1>
 <p align="center">
-<strong>Fundador de <a href="https://simcod.ec">SIMCODEC</a> · Software e IA para pymes</strong><br>
+<strong>Fundador de <a href="https://simcod.ec">SIMCODEC</a> y Epic Group · Software e IA para pymes</strong><br>
 Quito, Ecuador
 </p>
 
@@ -12,7 +12,8 @@ Quito, Ecuador
 ---
 
 ### 🚀 Qué hago
-- 🏢 Fundé **[SIMCODEC](https://simcod.ec)**, empresa de Quito que crea software, automatización e inteligencia artificial para pequeñas y medianas empresas (+50 clientes).
+- 🏢 Fundé **[SIMCODEC](https://simcod.ec)**, empresa de Quito que crea software, automatización e inteligencia artificial para pequeñas y medianas empresas (+50 clientes). Fui su CEO de agosto de 2025 a agosto de 2026 y hoy soy fundador y Director de Operaciones.
+- 🏢 Fundé y dirijo **Epic Group** (fundador y CEO desde 2019), holding tecnológico con empresas en redes, software, control industrial e IA.
 - 🤖 Productos propios: **Halo** (agentes de tareas) y **Tellia** (agentes de voz).
 - ⚡ Me interesan el desarrollo web, la nube, DevOps, las redes y la automatización.
 
