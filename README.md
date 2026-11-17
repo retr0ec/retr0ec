@@ -2,7 +2,7 @@
 <p align="center"><em>Construyendo el futuro línea por línea.</em></p>
 <p align="center">
 <strong>Fundador de <a href="https://simcod.ec">SIMCODEC</a> y <a href="https://epic.ec">Epic Group</a> · Software e IA para pymes</strong><br>
-Quito, Ecuador
+Quito, Ecuador · <a href="https://retr0.ec">retr0.ec</a>
 </p>
 
 <p align="center">
@@ -41,7 +41,7 @@ Quito, Ecuador
 ---
 
 ### 📫 Conectemos
-- 🌐 Sitio personal: [retr0.pages.dev](https://retr0.pages.dev)
+- 🌐 Sitio personal: [retr0.ec](https://retr0.ec)
 - 🏢 SIMCODEC: [simcod.ec](https://simcod.ec) · Epic Group: [epic.ec](https://epic.ec)
 - 💼 LinkedIn: [linkedin.com/in/retr0ec](https://www.linkedin.com/in/retr0ec/)
 - 📸 Instagram: [@retr0ec](https://www.instagram.com/retr0ec/)
